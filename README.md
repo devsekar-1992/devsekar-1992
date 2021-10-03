@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devsekar-1992
 - 👀 I’m interested in Flutter,Vue,Angular,Laravel,PHP
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me developersekar1992@gmail.com
 
 <!---
